@@ -1,0 +1,28 @@
+.heading
+{
+font-size:30px;
+width:100%;
+margin:0px;
+}
+.note
+{
+font-size: 14px;
+color: white;
+}
+#Play
+{
+font-size: 23px;
+
+}
+canvas 
+  {
+      background-color: yellow;
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow:10px 10px 10px blue;
+    margin-top: 100px;
+  }
+  #Pause
+  {
+  font-size: 23px;
+  }
